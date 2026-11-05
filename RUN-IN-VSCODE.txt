@@ -1,0 +1,10 @@
+ONE-TIME:
+1. Open this folder in VS Code.
+2. Terminal -> New Terminal.
+3. Run: npm install
+
+EVERY TIME:
+Press F5 -> Smart Accident Response - Chrome.
+
+The app automatically requests GPS permission and loads nearby hospitals.
+SOS automatically starts the ambulance tracer.
